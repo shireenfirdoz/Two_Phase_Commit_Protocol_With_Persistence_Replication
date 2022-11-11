@@ -1,4 +1,4 @@
-# cs7610-project
+# project
 
 ## Project Goal :
 1.	To implement the Two-phase commit (2PC) protocol on the laptop ordering system designed in the programming assignments. Thus, a user can first read the current orders for a set of customers and then place the orders (write) accordingly. 2PC will automatically commit/abort the transaction based on whether the data at the time of write is consistent with what was read. (Similar to 2PC implemented in last question of written assignment 2). 
